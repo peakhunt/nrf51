@@ -1,0 +1,7 @@
+https://devzone.nordicsemi.com/tutorials/b/getting-started/posts/getting-started-with-the-nrf5-development-kithttps://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF5-SDK
+
+
+a) use nRF5_SDK_12.3.0_d7731ad.
+   it looks like new SDK versions don't support NRF51 devices
+
+b) softdevice is s130
